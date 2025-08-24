@@ -35,8 +35,8 @@ o	Product and Platform Health: Detect bot activity through engagement patterns; 
 o	Engagement and Content Strategy: Leverage top hashtags to guide content creation; tailor content formats to different user segments based on posting activity.
 
 
+## 📸 Project Screenshot
+![FNP Dashboard](https://github.com/user-attachments/assets/e0196e5f-6f58-40a8-8ec5-ceba11dbcb5b)
 
 
-### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+<C:\Users\ujjwa\OneDrive\Desktop\BA\SQL\Insta clone Project/>
