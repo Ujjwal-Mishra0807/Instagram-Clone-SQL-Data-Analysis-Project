@@ -36,6 +36,7 @@ o	Engagement and Content Strategy: Leverage top hashtags to guide content creati
 
 
 ## 📸 Project Screenshot
-![Project's First Page](https://github.com/Ujjwal-Mishra0807/Instagram-Clone-SQL-Data-Analysis-Project/blob/main/SS%20for%20git%20hub...insta%20clone%20project.jpg)
+![Project's First Page](https://github.com/Ujjwal-Mishra0807/Instagram-Clone-SQL-Data-Analysis-Project/blob/main/SS%20for%20github....Insta%20clone%20project.jpg)
+(https://github.com/Ujjwal-Mishra0807/Instagram-Clone-SQL-Data-Analysis-Project/blob/main/SS%20for%20git%20hub...insta%20clone%20project.jpg)
 
 
