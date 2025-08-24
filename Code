@@ -1,1 +1,10 @@
+##1. What day of the week do most users register on?
 
+Select DAYNAME (created_at) AS day_name,
+COUNT (DAYNAME (created_at)) AS numbers
+From users
+GROUP BY day_name
+ORDER BY numbers DESC;
+
+
+##2. 
