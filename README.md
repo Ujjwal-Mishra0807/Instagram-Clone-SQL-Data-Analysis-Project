@@ -36,6 +36,6 @@ o	Engagement and Content Strategy: Leverage top hashtags to guide content creati
 
 
 ## 📸 Project Screenshot
-![FNP Dashboard](https://github.com/user-attachments/assets/e0196e5f-6f58-40a8-8ec5-ceba11dbcb5b)
+![Project's First Page](https://github.com/Ujjwal-Mishra0807/Instagram-Clone-SQL-Data-Analysis-Project/blob/main/SS%20for%20git%20hub...insta%20clone%20project.jpg)
 
 
