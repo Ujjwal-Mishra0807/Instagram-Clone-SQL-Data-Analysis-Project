@@ -39,4 +39,3 @@ o	Engagement and Content Strategy: Leverage top hashtags to guide content creati
 ![FNP Dashboard](https://github.com/user-attachments/assets/e0196e5f-6f58-40a8-8ec5-ceba11dbcb5b)
 
 
-<C:\Users\ujjwa\OneDrive\Desktop\BA\SQL\Insta clone Project/>
